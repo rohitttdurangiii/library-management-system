@@ -1,0 +1,36 @@
+{
+    "Books": [
+        {
+            "id": "B-SCEWI",
+            "title": "Game Of Throne",
+            "author": "Rohit",
+            "total_copy": 30,
+            "avalabe_copies": 29,
+            "added_on": "2026-08-08 11:07:25"
+        },
+        {
+            "id": "B-PJ70V",
+            "title": "Braking Bad",
+            "author": "Kunal",
+            "total_copy": 25,
+            "avalabe_copies": 25,
+            "added_on": "2026-08-08 11:38:00"
+        },
+        {
+            "id": "B-Z38Y0",
+            "title": "Snowfall",
+            "author": "Mohini Tirmale",
+            "total_copy": 25,
+            "avalabe_copies": 25,
+            "added_on": "2026-08-20 18:29:11"
+        }
+    ],
+    "Members": [
+        {
+            "id": "M-PLNEX",
+            "name": "kunal patil",
+            "email": "kunal@gmail.com",
+            "borowed": []
+        }
+    ]
+}
